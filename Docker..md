@@ -12,7 +12,7 @@ If We do not specify version , it will be latest
 
 . at the end tells docker that When We fire this Commandand All the Files it Need specially the Dockerfile are in the Current directory from Where I am Running this Command
 )
-dd
+
 docker image ls
 
 (Image Listing )
